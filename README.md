@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**ahmeedelsaied/ahmeedelsaied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 "Passionate Software Engineer and Full Stack Developer specializing in the JavaScript ecosystem. My journey started with Frontend development (React.js), mastering UI/UX principles, before evolving into a Full Stack Developer focused on the Node.js environment.<br><br>I have hands-on experience designing RESTful APIs, managing SQL/NoSQL databases, and implementing real-time features using Socket.io. My focus is always on writing clean, maintainable code (Clean Architecture) and optimizing performance using tools like Redis.<br><br>Technical Stack: 💻 Backend: Node.js, Express, REST APIs, JWT, MVC. ⚛️ Frontend: React.js, Next.js, Redux, Bootstrap/Tailwind. 🗄️ Databases: MongoDB, PostgreSQL, SQL Server, Redis. 🛠️ Tools: Git, Docker (Basics), Postman.<br><br>Open to opportunities where I can solve complex problems and contribute to impactful backend solutions."nginee
 
 
@@ -23,11 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=ahmeedelsaied&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
